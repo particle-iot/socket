@@ -3,7 +3,7 @@ The Spark Socket
 
 These are the design files for the Spark Socket, developed by Hex Labs, Inc. dba Spark Devices.
 
-These files have been made available online through a [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) Unported license.
+These files have been made available online through a [Creative Commons Attribution-ShareAlike 3.0](http://creativecommons.org/licenses/by-sa/3.0/) license.
 
 You are welcome to distribute, remix, and use these files for commercial purposes. If you do so, please attribute the original design to Spark Devices both on the website and on the physical packaging of the product or in the instruction manual. All derivitive works must be published under the same or a similar license.
 
@@ -13,7 +13,7 @@ If you choose to use these design files, please be forewarned: working with high
 
 ## The Story
 
-Development of the Spark Socket began in December, 2011, sparked (sorry) by a conversation over dinner in a Japanese restaurant with Zach's then-girlfriend's (now fiancee's) parents. Over the next eleven months, Spark went from an idea to a product. On November 13, 2012, the Spark Socket was published on the crowdfunding platform Kickstarter. The Kickstarter campaign site can be found [here](http://www.kickstarter.com/projects/sparkdevices/spark-upgrade-your-lights-with-wi-fi-and-apps).
+Development of the Spark Socket began in December, 2011, sparked (sorry) by Zach's experiences with his deaf father. Over the next eleven months, Spark went from an idea to a product. On November 13, 2012, the Spark Socket was published on the crowdfunding platform Kickstarter. The Kickstarter campaign site can be found [here](http://www.kickstarter.com/projects/sparkdevices/spark-upgrade-your-lights-with-wi-fi-and-apps).
 
 The Spark Socket Kickstarter campaign ran from November 13, 2012 to December 13, 2012. In that time, roughly 1,600 individuals devoted their time and money to supporting Spark with a total of $125,588 pledged. The funding threshold, however, for the campaign was $250,000. Because that threshold was not reached by the end of the campaign, the campaign closed unsuccessfully, and no credit cards were charged.
 
