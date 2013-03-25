@@ -7,6 +7,10 @@ These files have been made available online through a [Creative Commons Attribut
 
 You are welcome to distribute, remix, and use these files for commercial purposes. If you do so, please attribute the original design to Spark Devices both on the website and on the physical packaging of the product or in the instruction manual. All derivitive works must be published under the same or a similar license.
 
+## WARNING: High voltage
+
+If you choose to use these design files, please be forewarned: working with high voltage designs, especially non-isolated ones, can be extremely dangerous. Please proceed with extreme caution. We cannot guarantee the safety of these designs, as they had not yet been put through certification. If you download these files, you are taking upon yourself any liability for injury or property damage.
+
 ## The Story
 
 Development of the Spark Socket began in December, 2011, sparked (sorry) by a conversation over dinner in a Japanese restaurant with Zach's then-girlfriend's (now fiancee's) parents. Over the next eleven months, Spark went from an idea to a product. On November 13, 2012, the Spark Socket was published on the crowdfunding platform Kickstarter. The Kickstarter campaign site can be found [here](http://www.kickstarter.com/projects/sparkdevices/spark-upgrade-your-lights-with-wi-fi-and-apps).
